@@ -1,0 +1,14 @@
+{
+    "name": "viber-proxy",
+    "version": "1.0.0",
+    "description": "Simple proxy server to validate Viber tokens",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "axios": "^0.21.1",
+      "express": "^4.17.1"
+    }
+  }
+  
